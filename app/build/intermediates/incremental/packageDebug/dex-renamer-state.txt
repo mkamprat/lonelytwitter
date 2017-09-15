@@ -1,0 +1,7 @@
+#Thu Sep 14 17:33:37 MDT 2017
+base.0=/afs/ualberta.ca/home/m/k/mkamprat/lonelytwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_052497e3a44cdf4b950370f3581ea1b6e40ae07f
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/afs/ualberta.ca/home/m/k/mkamprat/lonelytwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_43c297df0d7f61d0c3bef7372755e596081ee44b/classes.dex
+base.1=/afs/ualberta.ca/home/m/k/mkamprat/lonelytwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_43c297df0d7f61d0c3bef7372755e596081ee44b
+file.0=/afs/ualberta.ca/home/m/k/mkamprat/lonelytwitter/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_052497e3a44cdf4b950370f3581ea1b6e40ae07f/classes.dex
