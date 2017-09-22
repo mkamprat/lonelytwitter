@@ -13,6 +13,9 @@ public abstract class Tweet implements Tweetable { //abstract class can't be ins
         this.message = message;
         this.date = new Date(); // sets date to current date
     }
+
+
+
     public void setDate(Date date) {
         this.date = date;
     }
@@ -34,9 +37,14 @@ public abstract class Tweet implements Tweetable { //abstract class can't be ins
     }
 
     public abstract Boolean isImportant();
-    /*{
-        return Boolean.TRUE;
-    }*/
+    {
+        //return Boolean.TRUE;
+    }
+
+    @Override
+    public String toString(){
+        return date.toString() + " | " + message;
+    }
 
 }
 
