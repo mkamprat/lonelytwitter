@@ -1,7 +1,25 @@
+/*
+ * Copyright (c) Mark Kamprath CMPUT 301, University of Alberta - All rights Reserved. You may use
+ *
+ *  Tweet
+ *
+ *  Version 3.0
+ *
+ *  Created by mkamprat on 9/14/17.
+ *
+ */
+
 package ca.ualberta.cs.lonelytwitter;
 import java.util.Date;
+
 /**
- * Created by mkamprat on 9/14/17.
+ * Represents a Tweet
+ *
+ * @author YourName
+ * @version 1.0
+ * @see NormalTweet
+ * @see ImportantTweet
+ * @since 1.0
  */
 
 public abstract class Tweet implements Tweetable { //abstract class can't be instantiated
@@ -13,6 +31,13 @@ public abstract class Tweet implements Tweetable { //abstract class can't be ins
         this.message = message;
         this.date = new Date(); // sets date to current date
     }
+
+    /**
+     * Constructs Tweet objects
+     *
+     * @param message tweet message
+     * @param date tweet date
+     */
 
 
 
@@ -40,6 +65,12 @@ public abstract class Tweet implements Tweetable { //abstract class can't be ins
     {
         //return Boolean.TRUE;
     }
+
+    /**
+     * Sets tweet messages
+     * @param message Tweet message
+     * @throws TweettooLongException
+     */
 
     @Override
     public String toString(){

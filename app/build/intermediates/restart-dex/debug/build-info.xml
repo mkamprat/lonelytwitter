@@ -6,30 +6,26 @@
     density="420dpi"
     format="10"
     plugin-version="2.3.3"
-    timestamp="1506043052052"
+    timestamp="1506641038970"
     token="5227781027457211255"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="105" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="23" />
+        duration="0" />
     <task
         name="verifier"
-        duration="9" />
-
-    <artifact
-        location="/afs/ualberta.ca/home/m/k/mkamprat/lonelytwitter/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-        type="SPLIT" />
+        duration="0" />
 
     <build
         build-mode="FULL"
-        timestamp="1506040348273"
+        timestamp="1506640567691"
         verifier="FULL_BUILD_REQUESTED" >
         <artifact
             location="/afs/ualberta.ca/home/m/k/mkamprat/lonelytwitter/app/build/intermediates/split-apk/debug/slices/slice_2.apk"
@@ -70,11 +66,7 @@
     </build>
     <build
         build-mode="COLD"
-        timestamp="1506043052052"
-        verifier="COLD_SWAP_REQUESTED" >
-        <artifact
-            location="/afs/ualberta.ca/home/m/k/mkamprat/lonelytwitter/app/build/intermediates/split-apk/debug/slices/slice_0.apk"
-            type="SPLIT" />
-    </build>
+        timestamp="1506641038970"
+        verifier="COLD_SWAP_REQUESTED" />
 
 </instant-run>
