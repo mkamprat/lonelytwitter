@@ -7,6 +7,230 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="aae1270a-5121-4c1c-b5fc-44b8a80ff887" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental-verifier/debug/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/split-apk/debug/dep/dependencies.apk" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.8.2_344172102aded4797884d5264218da33718edddb/classes.dex" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRun/debug/folders/1/5/main/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/instantRunSlicer/debug/folders/1/5/slice_0/ca/ualberta/cs/lonelytwitter/LonelyTwitterActivity$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/DefaultDateTypeAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/ExclusionStrategy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/FieldAttributes.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/FieldNamingPolicy$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/FieldNamingPolicy$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/FieldNamingPolicy$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/FieldNamingPolicy$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/FieldNamingPolicy$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/FieldNamingPolicy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/FieldNamingStrategy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/Gson$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/Gson$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/Gson$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/Gson$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/Gson$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/Gson$FutureTypeAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/Gson.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/GsonBuilder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/InstanceCreator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/JsonArray.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/JsonDeserializationContext.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/JsonDeserializer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/JsonElement.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/JsonIOException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/JsonNull.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/JsonObject.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/JsonParseException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/JsonParser.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/JsonPrimitive.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/JsonSerializationContext.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/JsonSerializer.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/JsonStreamParser.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/JsonSyntaxException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/LongSerializationPolicy$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/LongSerializationPolicy$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/LongSerializationPolicy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/TypeAdapter$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/TypeAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/TypeAdapterFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/annotations/Expose.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/annotations/JsonAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/annotations/SerializedName.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/annotations/Since.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/annotations/Until.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/$Gson$Preconditions.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/$Gson$Types$GenericArrayTypeImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/$Gson$Types$ParameterizedTypeImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/$Gson$Types$WildcardTypeImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/$Gson$Types.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/ConstructorConstructor$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/ConstructorConstructor$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/ConstructorConstructor$11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/ConstructorConstructor$12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/ConstructorConstructor$13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/ConstructorConstructor$14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/ConstructorConstructor$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/ConstructorConstructor$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/ConstructorConstructor$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/ConstructorConstructor$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/ConstructorConstructor$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/ConstructorConstructor$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/ConstructorConstructor$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/ConstructorConstructor$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/ConstructorConstructor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/Excluder$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/Excluder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/JsonReaderInternalAccess.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/LazilyParsedNumber.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/LinkedHashTreeMap$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/LinkedHashTreeMap$AvlBuilder.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/LinkedHashTreeMap$AvlIterator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/LinkedHashTreeMap$EntrySet$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/LinkedHashTreeMap$EntrySet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/LinkedHashTreeMap$KeySet$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/LinkedHashTreeMap$KeySet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/LinkedHashTreeMap$LinkedTreeMapIterator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/LinkedHashTreeMap$Node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/LinkedHashTreeMap.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/LinkedTreeMap$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/LinkedTreeMap$EntrySet$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/LinkedTreeMap$EntrySet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/LinkedTreeMap$KeySet$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/LinkedTreeMap$KeySet.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/LinkedTreeMap$LinkedTreeMapIterator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/LinkedTreeMap$Node.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/LinkedTreeMap.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/ObjectConstructor.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/Primitives.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/Streams$AppendableWriter$CurrentWrite.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/Streams$AppendableWriter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/Streams.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/UnsafeAllocator$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/UnsafeAllocator$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/UnsafeAllocator$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/UnsafeAllocator$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/UnsafeAllocator.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/ArrayTypeAdapter$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/ArrayTypeAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/CollectionTypeAdapterFactory$Adapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/CollectionTypeAdapterFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/DateTypeAdapter$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/DateTypeAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/JsonAdapterAnnotationTypeAdapterFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/JsonTreeReader$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/JsonTreeReader.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/JsonTreeWriter$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/JsonTreeWriter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/MapTypeAdapterFactory$Adapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/MapTypeAdapterFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/ObjectTypeAdapter$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/ObjectTypeAdapter$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/ObjectTypeAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/ReflectiveTypeAdapterFactory$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/ReflectiveTypeAdapterFactory$Adapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/ReflectiveTypeAdapterFactory$BoundField.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/ReflectiveTypeAdapterFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/SqlDateTypeAdapter$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/SqlDateTypeAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TimeTypeAdapter$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TimeTypeAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TreeTypeAdapter$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TreeTypeAdapter$GsonContextImpl.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TreeTypeAdapter$SingleTypeFactory.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TreeTypeAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapterRuntimeTypeWrapper.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$10.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$11.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$12.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$13.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$14.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$15.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$16.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$17.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$18.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$19.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$2.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$20.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$21.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$22.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$23.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$24.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$25.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$26$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$26.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$27.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$28.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$29.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$3.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$30.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$31.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$32.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$33.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$34.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$35$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$35.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$36.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$4.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$5.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$6.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$7.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$8.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$9.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters$EnumTypeAdapter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/TypeAdapters.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/internal/bind/util/ISO8601Utils.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/reflect/TypeToken.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/stream/JsonReader$1.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/stream/JsonReader.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/stream/JsonScope.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/stream/JsonToken.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/stream/JsonWriter.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/tmp/expandedArchives/gson-2.8.2.jar_66ds2ufsf3q9c4iy0jkayg3zy/com/google/gson/stream/MalformedJsonException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-17-26-34-893.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-17-36-35-837.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-17-37-55-887.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-17-48-28-480.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-17-52-31-912.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-17-52-35-892.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-18-13-26-577.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-18-13-27-431.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-18-14-28-883.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-18-14-45-853.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-18-15-00-583.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-18-15-12-200.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-18-16-04-122.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-18-20-15-110.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-18-22-04-479.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-18-22-21-708.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-18-27-54-762.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-18-28-26-448.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-18-29-59-592.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-18-31-51-889.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-18-32-28-267.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-18-57-26-457.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-19-00-05-802.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-19-03-36-067.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-19-05-55-901.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-19-06-13-732.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-19-07-07-483.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-19-07-27-236.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-21-19-17-32-046.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-28-17-16-05-818.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-09-28-17-23-58-950.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-05-18-11-24-775.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/android-profile/profile-2017-10-05-18-11-27-751.rawproto" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/dependencies/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/build/intermediates/instant-run-support/debug/package_dependencies/dex-renamer-state.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
     </list>
@@ -2352,14 +2576,7 @@
       <option name="project" value="LOCAL" />
       <updated>1506646164670</updated>
     </task>
-    <task id="LOCAL-00003" summary="lab exercise 4">
-      <created>1507249894230</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1507249894230</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -2379,7 +2596,7 @@
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.35037407" sideWeight="0.6967113" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21559075" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21559075" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980227" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
